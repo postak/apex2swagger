@@ -1,7 +1,7 @@
 
 # Exposing Oracle APEX REST Data Services using Swagger
 
-There are two ways to extract REST configuration
+There are two ways to extract REST configuration from APEX
 
 1. Via sqlplus shell access to the server hosting oracle instance and if you have *system* account credential 
 2. Via *Export* function in RESTful Services web interface on the [APEX](http://apex.oracle.com)
