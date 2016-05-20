@@ -1,5 +1,5 @@
 
-# Exposing Oracle REST Data Services using Swagger
+# Exposing Oracle APEX REST Data Services using Swagger
 
 There are two ways to extract REST configuration
 
